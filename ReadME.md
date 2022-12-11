@@ -13,9 +13,10 @@ or sh this.sh
 
  this script is written by shridhar shridhars145@gmail.com
 
-Editing something from the sudoers filecan be dangerous
+<h4>Editing something from the sudoers filecan be dangerous
 
-so please do not delete anything or modify anything that you dont know.."
+so please do not delete anything or modify anything that you dont know..
+</h4>
 
 well you need to add this to your 'sudoers' file
 
