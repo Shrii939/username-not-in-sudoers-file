@@ -2,7 +2,7 @@ to run this script u need to be in the location where this file is downloaded
 
 open the terminal and run this command 
 
-<pre>chmod +x wow.sh this.sh</pre>
+<pre>sudo chmod +x wow.sh this.sh</pre>
 
 and then type
 
