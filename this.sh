@@ -9,7 +9,6 @@
 # or sh this.sh 
 
 ## ignore
-gedit README.md
 sudo chmod 777 wow.sh
 sudo chmod 555 README.md wow.sh this.sh 
 
