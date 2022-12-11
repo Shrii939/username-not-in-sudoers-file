@@ -29,5 +29,5 @@ also add this below that your_usn ALL=(ALL:ALL) ALL \n"
 
 <h3>After editing press shift + x and press y to save and press enter </h3>
 
-a termial will be opend for you , run this command '<pre>./wow.sh </pre>' "
+a termial will be opend for you , run this command '<pre>./wow.sh </pre>
 
