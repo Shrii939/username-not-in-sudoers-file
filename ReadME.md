@@ -26,7 +26,7 @@ Find for ->
 and below that add this -> 
 <pre>user_name  ALL=(ALL:ALL) ALL"</pre>
 
-also add this below that your_usn ALL=(ALL:ALL) ALL \n"
+also add this below that your_usn ALL=(ALL:ALL) ALL "
 
 <h3>After editing press shift + x and press y to save and press enter </h3>
 
