@@ -1,4 +1,4 @@
-to run this script u need to be in the location where this file is downloaded 
+To run this script you need to be in the location where this file is downloaded 
 
 open the terminal and run this command 
 
@@ -20,10 +20,10 @@ so please do not delete anything or modify anything that you dont know..
 
 well you need to add this to your 'sudoers' file
 
-Find for ->  
+Find for 
 <pre>root  ALL=(ALL:ALL) ALL</pre> 
 
-and below that add this -> 
+and below that add this  
 <pre>user_name  ALL=(ALL:ALL) ALL</pre>
 
 also add this below that your_usn ALL=(ALL:ALL) ALL
