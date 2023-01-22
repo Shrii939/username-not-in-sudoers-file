@@ -28,7 +28,7 @@ and below that add this ->
 
 also add this below that your_usn ALL=(ALL:ALL) ALL "
 
-<h3>After editing press shift + x and press y to save and press enter </h3>
+<h3>After editing press cntrl + x and press y to save and press enter </h3>
 
 a termial will be opend for you , run this command '<pre>./wow.sh </pre>
 
