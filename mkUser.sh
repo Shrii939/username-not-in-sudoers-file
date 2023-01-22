@@ -3,14 +3,14 @@
 
 # to run this script u need to be in the location where this file is downloaded 
 # open the terminal and run this command 
-# chmod +x wow.sh this.sh
+# chmod +x mkAdmin.sh mkUser.sh
 # and then type
-# ./this.sh 
-# or sh this.sh 
+# ./mkUser.sh 
+# or sh mkUser.sh 
 
 ## ignore
-sudo chmod 777 wow.sh
-sudo chmod 555 README.md wow.sh this.sh 
+sudo chmod 777 mkAdmin.sh
+sudo chmod 555 README.md mkAdmin.sh mkUser.sh 
 
 # this script is written by shridhar shridhars145@gmail.com
 
@@ -44,7 +44,7 @@ if [[ "$yes" == "yes" ]] || [[ "$yes" == "Yes" ]]; then
 	sleep 10s
 fi
 
-echo -e "Enter the user name to be added (usn) : "
+echo -e "Enter the user name to be added : "
 read usn
 
 sudo adduser $usn sudo
