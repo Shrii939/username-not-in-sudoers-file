@@ -28,7 +28,7 @@ Find for
 and below that add this  
 <pre>user_name  ALL=(ALL:ALL) ALL</pre>
 
-<h4>After editing press <strong>cntrl + x and press y  to save and press enter</strong> </h4>
+<h4>After editing press <pre> cntrl + x</pre> and press  to save <pre>y</pre> and <pre>press enter</pre> </h4>
 
 a termial will be opend for you , run this command <pre>./mkAdmin.sh </pre>
 
