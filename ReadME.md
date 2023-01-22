@@ -1,3 +1,5 @@
+<h1>This is purely for Educational purpose Only </h1>
+<h3>No one except you is responsible for your actions </h3>
 To run this script you need to be in the location where this file is downloaded 
 
 open the terminal and run this command 
